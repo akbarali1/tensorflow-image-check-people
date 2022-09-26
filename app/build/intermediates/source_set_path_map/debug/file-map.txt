@@ -1,0 +1,44 @@
+org.tensorflow.lite.examples.imageclassification.app-pngs-0 C:\Loyihalar\Android Studio\AI Image\app\build\generated\res\pngs\debug
+org.tensorflow.lite.examples.imageclassification.app-resValues-1 C:\Loyihalar\Android Studio\AI Image\app\build\generated\res\resValues\debug
+org.tensorflow.lite.examples.imageclassification.app-rs-2 C:\Loyihalar\Android Studio\AI Image\app\build\generated\res\rs\debug
+org.tensorflow.lite.examples.imageclassification.app-packageDebugResources-3 C:\Loyihalar\Android Studio\AI Image\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+org.tensorflow.lite.examples.imageclassification.app-packageDebugResources-4 C:\Loyihalar\Android Studio\AI Image\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+org.tensorflow.lite.examples.imageclassification.app-merged_res-5 C:\Loyihalar\Android Studio\AI Image\app\build\intermediates\merged_res\debug
+org.tensorflow.lite.examples.imageclassification.app-debug-6 C:\Loyihalar\Android Studio\AI Image\app\src\debug\res
+org.tensorflow.lite.examples.imageclassification.app-main-7 C:\Loyihalar\Android Studio\AI Image\app\src\main\res
+org.tensorflow.lite.examples.imageclassification.app-annotation-experimental-1.1.0-8 C:\Users\Акбарали\.gradle\caches\transforms-3\017e492dbc0e25b6539ebc3d7b84c9e3\transformed\annotation-experimental-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-fragment-1.4.1-9 C:\Users\Акбарали\.gradle\caches\transforms-3\0204a18ed742d76be73910b3fe64451b\transformed\fragment-1.4.1\res
+org.tensorflow.lite.examples.imageclassification.app-slidingpanelayout-1.2.0-10 C:\Users\Акбарали\.gradle\caches\transforms-3\0270f6f4a389400371a4e7fe8198124c\transformed\slidingpanelayout-1.2.0\res
+org.tensorflow.lite.examples.imageclassification.app-viewpager2-1.0.0-11 C:\Users\Акбарали\.gradle\caches\transforms-3\07963c997ff137401df296504b54c2d4\transformed\viewpager2-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-viewmodel-2.3.1-12 C:\Users\Акбарали\.gradle\caches\transforms-3\0f4037010b74dcd50f7785a112ce4655\transformed\lifecycle-viewmodel-2.3.1\res
+org.tensorflow.lite.examples.imageclassification.app-savedstate-1.1.0-13 C:\Users\Акбарали\.gradle\caches\transforms-3\148cb27ecc47b23fd11cf061cc547fe0\transformed\savedstate-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-core-ktx-1.8.0-14 C:\Users\Акбарали\.gradle\caches\transforms-3\24b48d3ae1444e25a98fc59cc342ea2b\transformed\core-ktx-1.8.0\res
+org.tensorflow.lite.examples.imageclassification.app-camera-core-1.2.0-alpha02-15 C:\Users\Акбарали\.gradle\caches\transforms-3\3d7c92e66eb28f17394d9882c615ce2a\transformed\camera-core-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-core-1.8.0-16 C:\Users\Акбарали\.gradle\caches\transforms-3\5d9ec2cf295d5ec7a45a69ed76c1fe15\transformed\core-1.8.0\res
+org.tensorflow.lite.examples.imageclassification.app-constraintlayout-2.1.4-17 C:\Users\Акбарали\.gradle\caches\transforms-3\671b409212f87b97b9d3a07fe64e1967\transformed\constraintlayout-2.1.4\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-fragment-2.4.2-18 C:\Users\Акбарали\.gradle\caches\transforms-3\6c04f52eca60f35881a40b588d245d76\transformed\navigation-fragment-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-common-ktx-2.4.2-19 C:\Users\Акбарали\.gradle\caches\transforms-3\7191f9ff423eba1ceefbf766ddab1a2f\transformed\navigation-common-ktx-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-startup-runtime-1.0.0-20 C:\Users\Акбарали\.gradle\caches\transforms-3\77a94f1381cfd1ef81bcf0e7f24c1ad6\transformed\startup-runtime-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-runtime-2.4.0-21 C:\Users\Акбарали\.gradle\caches\transforms-3\782358c7e803736055389197a7e36540\transformed\lifecycle-runtime-2.4.0\res
+org.tensorflow.lite.examples.imageclassification.app-recyclerview-1.1.0-22 C:\Users\Акбарали\.gradle\caches\transforms-3\7ad821e1c43cd653fe4100ea787b4222\transformed\recyclerview-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-runtime-2.4.2-23 C:\Users\Акбарали\.gradle\caches\transforms-3\7c835ee314db32d8d8fb8b3db6ef71ee\transformed\navigation-runtime-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-common-2.4.2-24 C:\Users\Акбарали\.gradle\caches\transforms-3\8cd923a97afa9af994aa59ef170e8080\transformed\navigation-common-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-runtime-ktx-2.4.2-25 C:\Users\Акбарали\.gradle\caches\transforms-3\9713c76abe046685722b79adad8b8886\transformed\navigation-runtime-ktx-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-camera-camera2-1.2.0-alpha02-26 C:\Users\Акбарали\.gradle\caches\transforms-3\9b31df6baff9b9567c38e7dab0aea66b\transformed\camera-camera2-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-camera-view-1.2.0-alpha02-27 C:\Users\Акбарали\.gradle\caches\transforms-3\a4f147dbdecf2651c42d70859363469e\transformed\camera-view-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-fragment-ktx-2.4.2-28 C:\Users\Акбарали\.gradle\caches\transforms-3\af0e301d49ae7230e4f3888a3518934b\transformed\navigation-fragment-ktx-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-coordinatorlayout-1.1.0-29 C:\Users\Акбарали\.gradle\caches\transforms-3\bedb2e163353d0079cece6ac7f6f80e8\transformed\coordinatorlayout-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-appcompat-resources-1.4.2-30 C:\Users\Акбарали\.gradle\caches\transforms-3\c6ded76814915736889bbd5af1a874dd\transformed\appcompat-resources-1.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-process-2.4.0-31 C:\Users\Акбарали\.gradle\caches\transforms-3\cb9384bbe1f453bfbe1b5102cb3490cf\transformed\lifecycle-process-2.4.0\res
+org.tensorflow.lite.examples.imageclassification.app-drawerlayout-1.1.1-32 C:\Users\Акбарали\.gradle\caches\transforms-3\cfaf68f2c1321ae7ab7433e89e795338\transformed\drawerlayout-1.1.1\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-ui-2.4.2-33 C:\Users\Акбарали\.gradle\caches\transforms-3\d6b74399950bbe5fdb25df6e0f62ec33\transformed\navigation-ui-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-fragment-ktx-1.4.1-34 C:\Users\Акбарали\.gradle\caches\transforms-3\d7355678e873aaf5ea25405b7458076c\transformed\fragment-ktx-1.4.1\res
+org.tensorflow.lite.examples.imageclassification.app-appcompat-1.4.2-35 C:\Users\Акбарали\.gradle\caches\transforms-3\d95a2b44925e3dbb926f462888a155a5\transformed\appcompat-1.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-camera-lifecycle-1.2.0-alpha02-36 C:\Users\Акбарали\.gradle\caches\transforms-3\da9590bd84918f65de5e3c05a05406df\transformed\camera-lifecycle-1.2.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-window-1.1.0-alpha02-37 C:\Users\Акбарали\.gradle\caches\transforms-3\dc964d4e59ede5ac515e8a36af641e8c\transformed\window-1.1.0-alpha02\res
+org.tensorflow.lite.examples.imageclassification.app-cardview-1.0.0-38 C:\Users\Акбарали\.gradle\caches\transforms-3\efe22837d3e6988faacf274195aef36d\transformed\cardview-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-ui-ktx-2.4.2-39 C:\Users\Акбарали\.gradle\caches\transforms-3\f257f8c4dfcaf4fa757d0abae367082e\transformed\navigation-ui-ktx-2.4.2\res
+org.tensorflow.lite.examples.imageclassification.app-emoji2-1.0.0-40 C:\Users\Акбарали\.gradle\caches\transforms-3\f2c7d8d7a2203efc515b05e6965ea937\transformed\emoji2-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-emoji2-views-helper-1.0.0-41 C:\Users\Акбарали\.gradle\caches\transforms-3\f8f246128e926ea493ea3201cb9023b1\transformed\emoji2-views-helper-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-material-1.6.1-42 C:\Users\Акбарали\.gradle\caches\transforms-3\f98be67d55595587e52e259d43ecfeb4\transformed\material-1.6.1\res
+org.tensorflow.lite.examples.imageclassification.app-transition-1.4.1-43 C:\Users\Акбарали\.gradle\caches\transforms-3\f9fd9c33276d0cf6a479cb79f218047c\transformed\transition-1.4.1\res
